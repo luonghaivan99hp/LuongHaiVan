@@ -1,0 +1,8 @@
+
+primitive: so(nguyen(int,long),thap phan(float,double))
+- ki tu char='a' hoac char=97 theo bang ma ascii
+- boolean:true/false
+vd int a=1
+-thuộc tính:proterty các cái đặc điểm các thuộc tính vd name, age
+-phương thức :methon các hành động mà các đối tượng thực hiện eat()
+-== so sanh dia chi trong o nho
